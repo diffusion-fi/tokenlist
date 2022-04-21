@@ -14,15 +14,6 @@
       "decimals": 18,
       "address": "0xc48Efe267a31b5Af4cFDb50C8457914aadB0b875",
       "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389"
-
-    },
-    {
-      "name": "MOCK USDC",
-      "symbol": "MUSDC",
-      "chainId": 4,
-      "decimals": 18,
-      "address": "0xB2E91f27a9766bFD925D66D88B78D2cE64a846b6",
-      "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
     },
     {
       "name": "MOCK Evmos",
@@ -30,14 +21,6 @@
       "chainId": 9000,
       "decimals": 18,
       "address": "0xf1361Dc7DFB724bd29FE7ade0CdF9785F2Bc20E6",
-      "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/wevmos.png"
-    },
-    {
-      "name": "MOCK Evmos",
-      "symbol": "MEVMOS",
-      "chainId": 4,
-      "decimals": 18,
-      "address": "0xDfbBc5573024984ddac30BbE632fa3DAA821aBaD",
       "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/wevmos.png"
     },
     {
@@ -49,25 +32,9 @@
       "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/atom%201.png"
     },
     {
-      "name": "MOCK Atom",
-      "symbol": "MATOM",
-      "chainId": 4,
-      "decimals": 18,
-      "address": "0xC97D061637D6b3a3E54AC76537B2635B112ecdad",
-      "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/atom%201.png"
-    },
-    {
       "name": "MOCK Osmosis",
       "symbol": "MOSMOSIS",
       "chainId": 9000,
-      "decimals": 18,
-      "address": "0x067eC87844fBD73eDa4a1059F30039584586e09d",
-      "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/osmo%201.png"
-    },
-    {
-      "name": "MOCK Osmosis",
-      "symbol": "MOSMOSIS",
-      "chainId": 4,
       "decimals": 18,
       "address": "0x1dccd8025688e39C72f2539C6f00d77bd6678425",
       "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/osmo%201.png"
@@ -81,36 +48,12 @@
       "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/LHS.png"
     },
     {
-      "name": "Left Hand 2",
-      "symbol": "LHS2",
-      "chainId": 4,
-      "decimals": 18,
-      "address": "0xD6C474447cA995219B52E5c018665eCAfEB772e4",
-      "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/LHS.png"
-    },
-    {
       "name": "Right Hand 2",
       "symbol": "RHS2",
       "chainId": 9000,
       "decimals": 18,
       "address": "0xD3607915d934576EcdC389E7DBc641097fd5A0dE",
       "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/RHS.png"
-    },
-    {
-      "name": "Right Hand 2",
-      "symbol": "RHS2",
-      "chainId": 4,
-      "decimals": 18,
-      "address": "0x16bc4f17071A27Ebe6Af44e90bac6349057646a5",
-      "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/RHS.png"
-    },
-    {
-      "name": "Diffusion",
-      "symbol": "DIFF",
-      "chainId": 4,
-      "decimals": 18,
-      "address": "0x7e806d59528f6fa7cccadb4821dd42551113defc",
-      "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/DIFF.png"
     },
     {
       "name": "Diffusion",
