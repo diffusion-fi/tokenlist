@@ -53,7 +53,7 @@
       "chainId": 9001,
       "decimals": 6,
       "address": "0x51e44FfaD5C2B122C8b635671FCC8139dc636E82",
-      "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/USD_Coin_icon.png"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
     },
     {
       "name": "Tether USD",
