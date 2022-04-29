@@ -138,7 +138,7 @@
     {
       "name": "Evmos Doge",
       "symbol": "eDOGE",
-      "chainId": 9000,
+      "chainId": 9001,
       "decimals": 5,
       "address": "0x93D8c966d8dD358fe5146ad3067a0414f25f7F5B",
       "logoURI": "https://github.com/OxGAB/eDoge/blob/main/eDoge_logo.png"
