@@ -134,6 +134,14 @@
       "decimals": 18,
       "address": "0x7e806d59528f6fa7cccadb4821dd42551113defc",
       "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/DIFF.png"
+    },
+    {
+      "name": "BurnEvmos",
+      "symbol": "BurnEvmos",
+      "chainId": 9000,
+      "decimals": 9,
+      "address": "0x9E7dDF92e7de1B44BAFEdcECCe42Bd5FA7732926",
+      "logoURI": "https://raw.githubusercontent.com/burnevmos/burnevmos/main/burnevmoswhite.png"
     }
   ]
 }
