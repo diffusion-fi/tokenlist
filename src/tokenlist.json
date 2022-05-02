@@ -138,7 +138,7 @@
     {
       "name": "BurnEvmos",
       "symbol": "BurnEvmos",
-      "chainId": 9000,
+      "chainId": 9001,
       "decimals": 9,
       "address": "0x9E7dDF92e7de1B44BAFEdcECCe42Bd5FA7732926",
       "logoURI": "https://raw.githubusercontent.com/burnevmos/burnevmos/main/burnevmoswhite.png"
