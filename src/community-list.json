@@ -14,6 +14,13 @@
       "decimals": 5,
       "address": "0x93D8c966d8dD358fe5146ad3067a0414f25f7F5B",
       "logoURI": "https://raw.githubusercontent.com/OxGAB/eDoge/main/eDoge_logo.png"
+    },   {
+      "name": "Evmos Frens",
+      "symbol": "eFrens",
+      "chainId": 9001,
+      "decimals": 9,
+      "address": "0x9a42dc12b9Dc20a59cB1Ff077DD283Cf5E61D768",
+      "logoURI": "https://raw.githubusercontent.com/AI0xFrens/NeuralAI/main/evmosFrens.png"
     },
     {
       "name": "BurnEvmos",
