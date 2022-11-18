@@ -3,7 +3,7 @@
   "timestamp": "2022-10-11T00:00:00.000Z",
   "logoURI": "https://app.diffusion.fi/favicon.png",
   "version": {
-    "major": 20,
+    "major": 21,
     "minor": 0,
     "patch": 0
   },
@@ -415,6 +415,14 @@
       "decimals": 18,
       "address": "0x7e806d59528f6fa7cccadb4821dd42551113defc",
       "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/DIFF.png"
+    },
+    {
+      "name": "Tgrade",
+      "symbol": "TGD",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0x4AF57825b86Abf93D4F9D720bEF7c1C1b300A6F3",
+      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/tgrade/images/tgrade-symbol-gradient.png"
     }
   ]
 }
