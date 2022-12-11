@@ -3,7 +3,7 @@
   "timestamp": "2022-10-11T00:00:00.000Z",
   "logoURI": "https://app.diffusion.fi/favicon.png",
   "version": {
-    "major": 20,
+    "major": 21,
     "minor": 0,
     "patch": 0
   },
@@ -358,7 +358,7 @@
       "chainId": 9001,
       "decimals": 18,
       "address": "0xFEa7a6a0B346362BF88A9e4A88416B77a57D6c2A",
-      "logoURI": "https://mvp.arable.finance/public/assets/tokens/acre_token.png"
+      "logoURI": "https://app.arable.finance/public/assets/tokens/acre_token.png"
     },
     {
       "name": "MOCK USDC",
