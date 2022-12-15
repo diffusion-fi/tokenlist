@@ -415,6 +415,14 @@
       "decimals": 18,
       "address": "0x7e806d59528f6fa7cccadb4821dd42551113defc",
       "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/DIFF.png"
-    }
+    },
+    {
+        "name": "RINGS TOKEN",
+        "symbol": "RINGS",
+        "chainId": 9000,
+        "decimals": 18,
+        "address": "0x9f35562fbEb1816C5cA0b2D386f9E15Ae741A5E8",
+        "logoURI": "https://ipfs.io/ipfs/QmZD4VYiQ6qm8VLf7tmxQowqMoyiG9y8y3P9DYqzstXfN8/RingsToken1.svg"
+      }
   ]
 }
