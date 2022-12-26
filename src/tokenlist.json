@@ -361,6 +361,14 @@
       "logoURI": "https://app.arable.finance/public/assets/tokens/acre_token.png"
     },
     {
+      "name": "XEN Crypto",
+      "symbol": "coXEN",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x2ab0e9e4ee70fff1fb9d67031e44f6410170d00e",
+      "logoURI": "https://assets.coingecko.com/coins/images/27713/large/Xen.jpeg"
+    },
+    {
       "name": "MOCK USDC",
       "symbol": "MUSDC",
       "chainId": 9000,
