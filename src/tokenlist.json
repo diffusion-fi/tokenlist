@@ -415,6 +415,22 @@
       "decimals": 18,
       "address": "0x7e806d59528f6fa7cccadb4821dd42551113defc",
       "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/DIFF.png"
+    },
+    {
+      "name": "Comdex",
+      "symbol": "CMDX",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0xF0965c8f0755CF080a61C91EDd6707F0532c8fE7",
+      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/comdex/images/cmdx.png"
+    },
+    {
+      "name": "Composite",
+      "symbol": "CMST",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0x9d6F2a9fDB32708e1AC07788cc29D6125ac73027",
+      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/comdex/images/cmst.png"
     }
   ]
 }
